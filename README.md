@@ -2,6 +2,7 @@
 
 # AQUA
 
+Hey, I’m Vikas!
 ### Building software I genuinely enjoy creating.
 
 AI Engineer & Software Developer
