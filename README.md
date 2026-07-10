@@ -56,8 +56,6 @@ Focused on **AI**, **Cloud**, **Automation**, and **Open Source**.
 
 ---
 
----
-
 ## Connect
 
 <p align="left">
