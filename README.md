@@ -1,15 +1,17 @@
-GITHUB OS
+# VIKAS OS
 
+```text
 > boot
 
 Loading AI modules...
 Loading cloud services...
 Loading active projects...
 
-✓ System Ready
+✓ System initialized.
 
-Developer environment ready
+Developer environment ready.
+```
 
-AI Engineer • Software Builder
+### AI Engineer • Software Builder
 
-Building AI systems, automation tools, and scalable software
+Building AI systems, automation tools, and scalable software.
