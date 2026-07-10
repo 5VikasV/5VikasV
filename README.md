@@ -8,7 +8,7 @@ Loading active projects...
 
 ✓ System Ready
 
-Welcome to GITHUB OS
+Developer environment ready
 
 AI Engineer • Software Builder
 
