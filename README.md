@@ -56,15 +56,8 @@ Focused on **AI**, **Cloud**, **Automation**, and **Open Source**.
 
 ---
 
-## GitHub Analytics
+## Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5VikasV&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5VikasV&layout=compact&theme=github_dark&hide_border=true" />
-  
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=5VikasV&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5VikasV&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=3B82F6&point=FFFFFF"/>
 </p>
