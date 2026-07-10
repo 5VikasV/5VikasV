@@ -66,8 +66,6 @@ Focused on **AI**, **Cloud**, **Automation**, and **Open Source**.
 
 ---
 
-> *"Building software I genuinely enjoy creating."*
-
 **AQUA**
 
 ## Activity
