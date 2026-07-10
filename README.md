@@ -12,4 +12,4 @@ Developer environment ready
 
 AI Engineer • Software Builder
 
-Building practical AI systems, automation tools, and cloud-powered applications
+Building AI systems, automation tools, and scalable software
