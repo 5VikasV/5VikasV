@@ -1,5 +1,3 @@
-<img width="1983" height="793" alt="86b53bf0-322f-4199-973d-25e6807d937a" src="https://github.com/user-attachments/assets/32221bb7-f3e5-495b-9233-fadd6e4af9c5" />
-
 # AQUA
 
 Hey, I’m Vikas!
